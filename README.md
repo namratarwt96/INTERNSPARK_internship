@@ -11,8 +11,8 @@
 # 1.HTML5
 # 2.CSS3
 # 3.BOOTSTRAP/FLEXBOX/GRID
-# 4.JAVASCRIPT
------------------------------------------------------------------------------------------------
+# 4. JS
+
 # TASK 1 : PORTFOLIO WEBSITE
 # GOAL: Make a mobile friendly personal portfolio website showing skills projects etc. 
 
@@ -21,7 +21,7 @@
 2. Smooth Scroll
 3. Different sections like Home, Skills, Education, Projects,Contacts etc.
 4. Clean user interface and responsiveness.
---------------------------------------------------------------------------------------------------
+
 # TASK 2: MAKE A APP USING JS AND DOM MANIPULATION .
 
 # GOAL: Build  a calculator app which performs operations on user interaction.
@@ -38,28 +38,27 @@ a simple calculator which perform basic arithematic operations.
 6. Interactive buttons
 7. Dynamic Display updates using JAVASCRIPT DOM manipulation
 8. Responsive design
-----------------------------------------------------------------------------------      
+      
 # TASK 3: UI CLONE CHALLENGE ANY 1 APP
 
 # GOAL: Clone the user interface of a real world website using HTML CSS.
 
 # PROJECT SELECTED:
-NETFLIX HOMEPAGE CLONE UI
+YOUTUBE APP UI
 
 # FEATURES:
-1. Netflix style UI layout
+1. YouTube styled  UI layout
 2. Navigation Bar
 3. Hero section
-4. Cards of movies or sections
-5. Responsive design
-6. Interactivity using JavaScript elements.
--------------------------------------------------------------------------------------
-DOMAIN: FRONTEND DEVELOPMENT
-START DATE: 18.6.2026
-DURATION: 45 DAYS
-REMOTE INTERNSHIP.
+4. Responsive design
+5. Interactivity using JavaScript elements.
+6. User-friendly clean and clear functionality.
 
-THANKYOU.
+# DOMAIN: FRONTEND DEVELOPMENT
+# START DATE: 18.6.2026
+# DURATION: 45 DAYS
+# REMOTE INTERNSHIP.
+# THANKYOU.
 
 
 
