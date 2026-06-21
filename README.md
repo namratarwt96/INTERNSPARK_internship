@@ -8,11 +8,12 @@
 
 # 1.HTML5
 # 2.CSS3
-# 3.BOOTSTRAP/FLEXBOX/GRID (any one)
+# 3.BOOTSTRAP/FLEXBOX/GRID
 # 4.JAVASCRIPT
 -----------------------------------------------------------------------------------------------
 # TASK 1 : PORTFOLIO WEBSITE
-# GOAL: To make a mobile friendly personal portfolio website showcasing my skills projects etc.
+# GOAL: Make a mobile friendly personal portfolio website showing skills projects etc. 
+
 # FEATURES: 
 1. Responsive design for mobile tablet or laptop etc.
 2. Smooth Scroll
@@ -26,7 +27,7 @@
 
 # GOAL: Build  a calculator app which performs operations on user interaction.
 # PROJECT SELECTED
-CALCULATOR APP: a simple calculator which perform basic arithematic operations.
+# CALCULATOR APP: a simple calculator which perform basic arithematic operations.
 
 # FEATURES :
 1. Addition
@@ -39,9 +40,12 @@ CALCULATOR APP: a simple calculator which perform basic arithematic operations.
 8. Responsive design
 ----------------------------------------------------------------------------------      
 # TASK 3: UI CLONE CHALLENGE ANY  APP
+
 # GOAL: Clone the user interface of a real world website using HTML CSS JS to practice frontend development skills and UI skills.
+
 # PROJECT SELECTED:
 NETFLIX HOMEPAGE CLONE UI
+
 # FEATURES:
 1. Netflix style UI layout
 2. Navigation Bar
