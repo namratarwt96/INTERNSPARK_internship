@@ -5,9 +5,9 @@
   3. API INTEGRATION
   4. CLONE UI OF ANY 1 APP
 # TECH STACK USED:
-# 
+
 1.HTML5
-   2.CSS3
+2.CSS3
  3.BOOTSTRAP/FLEXBOX/GRID (any one)
  4.JAVASCRIPT
 -----------------------------------------------------------------------------------------------
