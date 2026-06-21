@@ -6,10 +6,10 @@
   4. CLONE UI OF ANY 1 APP
 # TECH STACK USED:
 
-1.HTML5
-2.CSS3
- 3.BOOTSTRAP/FLEXBOX/GRID (any one)
- 4.JAVASCRIPT
+# 1.HTML5
+# 2.CSS3
+# 3.BOOTSTRAP/FLEXBOX/GRID (any one)
+# 4.JAVASCRIPT
 -----------------------------------------------------------------------------------------------
 # TASK 1 : PORTFOLIO WEBSITE
 # GOAL: To make a mobile friendly personal portfolio website showcasing my skills projects etc.
