@@ -4,7 +4,7 @@
   2. AN APP USING JS
   3. API INTEGRATION
   4. CLONE UI OF ANY 1 APP
-# ANY 3 to be Done : Task1 2 and 4 (selected)
+# Any 3  task to be selected Task 1 2 and 4
 
 # TECH STACK USED:
 
