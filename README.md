@@ -19,9 +19,6 @@
 2. Smooth Scroll
 3. Different sections like Home, Skills, Education, Projects,Contacts etc.
 4. Clean user interface and responsiveness.
-
-# SOURCE CODE LINK OF REPOSITORY:
-
 --------------------------------------------------------------------------------------------------
 # TASK 2: MAKE A APP USING JS AND DOM MANIPULATION .
 
