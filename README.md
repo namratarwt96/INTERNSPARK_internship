@@ -8,12 +8,12 @@
 
 # TECH STACK USED:
 
-# 1.HTML5
-# 2.CSS3
-# 3.BOOTSTRAP/FLEXBOX/GRID
+# 1. HTML5
+# 2. CSS3
+# 3. Bootstrap or Flexbox/Grid 
 # 4. JS
 
-# TASK 1 : PORTFOLIO WEBSITE
+# TASK 1 :  RESPONSIVE PORTFOLIO WEBSITE
 # GOAL: Make a mobile friendly personal portfolio website showing skills projects etc. 
 
 # FEATURES: 
@@ -39,7 +39,7 @@ a simple calculator which perform basic arithematic operations.
 7. Dynamic Display updates using JAVASCRIPT DOM manipulation
 8. Responsive design
       
-# TASK 3: UI CLONE CHALLENGE ANY 1 APP
+# TASK 3: UI CLONE CHALLENGE OF ANY REAL WORLD APP
 
 # GOAL: Clone the user interface of a real world website using HTML CSS.
 
