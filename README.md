@@ -26,7 +26,8 @@
 
 # GOAL: Build  a calculator app which performs operations on user interaction.
 # PROJECT SELECTED
-# CALCULATOR APP: a simple calculator which perform basic arithematic operations.
+CALCULATOR APP:
+a simple calculator which perform basic arithematic operations.
 
 # FEATURES :
 1. Addition
