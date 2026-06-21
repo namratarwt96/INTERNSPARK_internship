@@ -39,9 +39,9 @@ a simple calculator which perform basic arithematic operations.
 7. Dynamic Display updates using JAVASCRIPT DOM manipulation
 8. Responsive design
 ----------------------------------------------------------------------------------      
-# TASK 3: UI CLONE CHALLENGE ANY  APP
+# TASK 3: UI CLONE CHALLENGE ANY 1 APP
 
-# GOAL: Clone the user interface of a real world website using HTML CSS JS to practice frontend development skills and UI skills.
+# GOAL: Clone the user interface of a real world website using HTML CSS.
 
 # PROJECT SELECTED:
 NETFLIX HOMEPAGE CLONE UI
