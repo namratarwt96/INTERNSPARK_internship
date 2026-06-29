@@ -14,7 +14,7 @@ Task 1: Responsive Portfolio Website
 3. CSS3
 
 # What I learnt:
-1. Flexbox Basics (1 week)
+1. Flexbox Basics
 2. Responsive Design
 3. Basic Layout and Styling Polished.
 4. Use of Sections, Headers, Footers and Navigation Bar and Links.
@@ -22,7 +22,7 @@ Task 1: Responsive Portfolio Website
 6. HTML CSS BASICS revisited.
 
 
-Thankyou ♥︎
+Thankyou
 
 
 
