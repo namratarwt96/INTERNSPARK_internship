@@ -1,1 +1,164 @@
 
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:1.6;
+    color: black;
+    background: lightpink;
+}
+
+
+header{
+    background: rgb(232, 7, 119);
+    color:white;
+    padding:15px 40px;
+}
+
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+
+.nav-links{
+
+    display:flex;
+    
+    gap:25px;
+    color:white;
+    
+}
+.nav-links a {
+    text-decoration: white;
+    color: white;
+
+}
+
+.hero{
+
+    min-height:80px ;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding:20px;
+
+}
+
+
+.hero h1{
+
+    font-size:42px;
+    margin-bottom:15px;
+
+}
+
+
+.hero p{
+ margin-top: 18px;
+    font-size:18px;
+    max-width:600px;
+
+}
+
+
+section{
+
+    padding:50px 20px;
+    text-align:center;
+
+}
+
+
+section h2{
+     font-size: 30px;
+    margin-bottom:20px;
+
+}
+
+
+.cards{
+
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+
+}
+
+
+.card{
+
+    width:260px;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 5px 15px  grey ;
+
+}
+
+footer{
+
+    background: solid black;
+    color:white;
+    text-align:center;
+    padding:15px;
+
+}
+
+@media(max-width:700px){
+
+    nav{
+
+        flex-direction:column;
+
+    }
+
+
+    ul{
+
+        flex-direction:column;
+        text-align:left;
+        margin-top:15px;
+
+    }
+
+
+    .hero h1{
+
+        font-size:30px;
+
+    }
+
+
+    .cards{
+
+        flex-direction:column;
+        align-items:center;
+
+    }
+
+}
+.projects-section {
+    
+ display: flex;
+ justify-content: center;
+margin-top: 30px;
+gap: 30px;
+}
+.projects-card {
+    width:250px;
+    padding: 100px;
+    border: 0 0 10px black;
+}
+
+.skills  .contact .project-section {
+    text-align: center;
+}
