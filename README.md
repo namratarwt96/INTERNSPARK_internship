@@ -25,26 +25,26 @@
 # TASK 2: MAKE A APP USING JS AND DOM MANIPULATION .
 
 # GOAL: Build  a calculator app which performs operations on user interaction.
-# PROJECT SELECTED
-CALCULATOR APP:
+
+# CALCULATOR APP:
+
 a simple calculator which perform basic arithematic operations.
 
 # FEATURES :
+
 1. Addition
 2. Substraction
 3. Multiplication
 4. Division
-5. Clear functionality
+5. Clear Button 
 6. Interactive buttons
-7. Dynamic Display updates using JAVASCRIPT DOM manipulation
-8. Responsive design
+7. Responsive design
       
 # TASK 3: UI CLONE CHALLENGE OF ANY REAL WORLD APP
 
 # GOAL: Clone the user interface of a real world website using HTML CSS.
 
-# PROJECT SELECTED:
-YOUTUBE APP UI
+# YOUTUBE APP UI
 
 # FEATURES:
 1. YouTube styled  UI layout
@@ -52,7 +52,9 @@ YOUTUBE APP UI
 3. Hero section
 4. Responsive design
 5. Interactivity using JavaScript elements.
-6. User-friendly clean and clear functionality.
+6. User-friendly & clean code.
+
+
 
 DOMAIN: FRONTEND DEVELOPMENT
 START DATE: 18.6.2026
