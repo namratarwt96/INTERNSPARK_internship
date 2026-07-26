@@ -4,15 +4,16 @@ A beginner-friendly YouTube homepage clone built using **HTML**, **CSS**, and **
 
 ## 🚀 Live Demo
 
-Add your deployed project link here:
+**Live Demo Link :** 
 
-**Live Demo:** https://your-live-demo-link.com
+https://namratarwt96.github.io/task3-clone-ui-challenge-yt-internspark_internship/
 
 ## 💻 Source Code
 
-GitHub Repository:
+GitHub Repository Link:
 
-https://github.com/your-username/youtube-ui-clone
+https://github.com/namratarwt96/task3-clone-ui-challenge-yt-internspark_internship
+
 
 ## ✨ Features
 
@@ -33,33 +34,14 @@ https://github.com/your-username/youtube-ui-clone
 
 ## 📂 Project Structure
 
-```
+
 youtube-ui-clone/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── thumbnails/
-│   └── profile-images/
 └── README.md
-```
 
-## 📸 Screenshot
-
-Add a screenshot of your project here.
-
-Example:
-
-```
-assets/screenshot.png
-```
-
-Then display it using:
-
-```md
-![Project Screenshot](assets/screenshot.png)
-```
 
 ## 📱 Responsive Design
 
