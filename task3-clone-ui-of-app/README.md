@@ -8,6 +8,14 @@ A beginner-friendly YouTube homepage clone built using **HTML**, **CSS**, and **
 
 https://namratarwt96.github.io/task3-clone-ui-challenge-yt-internspark_internship/
 
+
+## Drive Link:
+
+https://docs.google.com/document/d/1icXZOPBH3pCMXko1cBb014BBuYWdZKCdzMA_znBMzGc/edit?usp=drivesdk
+
+
+Doc Link task 3
+
 ## 💻 Source Code
 
 GitHub Repository Link:
