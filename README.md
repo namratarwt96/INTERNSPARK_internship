@@ -57,7 +57,7 @@ a simple calculator which perform basic arithematic operations.
 
 
 DOMAIN: FRONTEND DEVELOPMENT
-START DATE: 18.6.2026
+START DATE: 16.6.2026
 DURATION: 45 DAYS
 REMOTE INTERNSHIP.
 THANKYOU.
