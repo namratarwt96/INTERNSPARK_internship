@@ -9,7 +9,7 @@ Task 1: Responsive Portfolio Website
 4. Basic Functionality 
 
 # Tech Stack:
-1. Flexbox
+1. Bootstrap
 2. HTML5
 3. CSS3
 
